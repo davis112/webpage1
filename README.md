@@ -5,7 +5,7 @@
 
 <body>
 
-<h1 style="background-color:pink;">Viena maza turku</h1>
+<h1 style="background-color:9D2235;">Viena maza turku</h1>
 <h2 style="color:violet;">Pupa ceļoja uz</h2>
 <h3 style="text-align:center;">Angliju anglija</h3>
 <h4>Bij aizslēgta un</h4>
